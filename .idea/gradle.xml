@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Yuekao" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/lunbo" />
+            <option value="$PROJECT_DIR$/yekao(购物车练习1)" />
+            <option value="$PROJECT_DIR$/yi(二次采样)" />
+            <option value="$PROJECT_DIR$/yuekao(练习上月)" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Lian.iml" filepath="$PROJECT_DIR$/Lian.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Yuekao/Yuekao.iml" filepath="$PROJECT_DIR$/Yuekao/Yuekao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lunbo/lunbo.iml" filepath="$PROJECT_DIR$/lunbo/lunbo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/yekao(购物车练习1)/yekao(购物车练习1).iml" filepath="$PROJECT_DIR$/yekao(购物车练习1)/yekao(购物车练习1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/yi(二次采样)/yi(二次采样).iml" filepath="$PROJECT_DIR$/yi(二次采样)/yi(二次采样).iml" />
+      <module fileurl="file://$PROJECT_DIR$/yuekao(练习上月)/yuekao(练习上月).iml" filepath="$PROJECT_DIR$/yuekao(练习上月)/yuekao(练习上月).iml" />
+    </modules>
+  </component>
+</project>
