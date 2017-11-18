@@ -23,6 +23,7 @@
         </activity>
         <activity android:name=".view.SecondActivity" />
         <activity android:name=".view.ThreeActivity"/>
+        <activity android:name=".view.VideoActivity"/>
     </application>
 
 </manifest>

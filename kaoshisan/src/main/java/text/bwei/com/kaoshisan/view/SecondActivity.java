@@ -187,6 +187,16 @@ public class SecondActivity extends AppCompatActivity implements Iview {
                     startActivity(intent);
                 }
             });
+            myViewHolder.imageView.setOnClickListener(new View.OnClickListener() {
+                @Override
+                public void onClick(View view) {
+                    String s = list.get(position).getVedio_url();
+                    Intent intent1=new Intent(SecondActivity.this,VideoActivity.class);
+                    intent1.putExtra("url",s);
+                    startActivity(intent1);
+
+                }
+            });
 
 
         }
